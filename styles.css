@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #242424;
+    color: goldenrod;
+    margin: 20px;
+  }
+  /*main*/
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: goldenrod;
+  }
+  nav {
+    text-align: center;
+    background-color: goldenrod;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 7px;
+  }
+  nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  nav a:hover {
+    background-color: black;
+    color: goldenrod;
+  }
+  form {
+    background-color: #424040;
+    color: goldenrod;
+    border-radius: 20px;
+  }
+
+  /*footer*/
+  footer {
+    background-color: goldenrod;
+    padding-bottom: 40px;
+    color: #242424;
+    
+  }
+  h4 {
+    padding-top: 20px;
+  }
+  
